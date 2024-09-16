@@ -1,4 +1,4 @@
-@import ".Style/reset.css";
+@import "./reset.css";
 
 @font-face {
     font-family: 'pulsar-original';
@@ -10,8 +10,8 @@
 }
 @font-face {
     font-family: "aire_exteriorregular";
-    src: url("Style/Fonts/ofont.ru_Aire Exterior.woff2") format('woff2'),
-    url("S/Fonts/ofont.ru_Aire Exterior.woff") format('woff');
+    src: url("./Fonts/ofont.ru_Aire Exterior.woff2") format('woff2'),
+    url("./Fonts/ofont.ru_Aire Exterior.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 
