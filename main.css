@@ -1,9 +1,9 @@
-@import "Style/reset.css";
+@import ".Style/reset.css";
 
 @font-face {
     font-family: 'pulsar-original';
-    src: url(Style/Fonts/pulsar-original-webfont.woff2) format('woff2'),
-    url(Style/Fonts/pulsar-original-webfont.woff) format('woff');
+    src: url(./Fonts/pulsar-original-webfont.woff2) format('woff2'),
+    url(./Fonts/pulsar-original-webfont.woff) format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -11,7 +11,7 @@
 @font-face {
     font-family: "aire_exteriorregular";
     src: url("Style/Fonts/ofont.ru_Aire Exterior.woff2") format('woff2'),
-    url("Style/Fonts/ofont.ru_Aire Exterior.woff") format('woff');
+    url("S/Fonts/ofont.ru_Aire Exterior.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 
